@@ -1,0 +1,1 @@
+print "Testando se a parada funciona"
